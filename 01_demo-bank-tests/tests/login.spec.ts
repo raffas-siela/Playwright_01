@@ -43,6 +43,7 @@ test.describe('User login to Demobank', () => {
 
   test('unsuccessful login with too short password', async ({ page }) => {
     await page.goto('https://demo-bank.vercel.app/');
+    await 
 
 
 
